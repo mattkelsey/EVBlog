@@ -1,12 +1,12 @@
 # Site settings
-title: Clean Blog
+title: Matt's EV Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+email: lol@yourdomain.com
+description: "At the beggining of 2015, I had the slightly absurd idea I wanted to convert an electric car. Thanks to my amazing Aunt who so kindly donated here beautiful 1984 Mazda RX-7 GLS, this idea has become a reality."
+baseurl: ""
+url: "http://ev.mkindustries.net"
 twitter_username: SBootstrap
-github_username:  davidtmiller
+github_username:  mattkelsey
 facebook_username:  IronSummitMedia
 
 # Build settings
