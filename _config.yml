@@ -1,13 +1,13 @@
 # Site settings
 title: Matt's EV Blog
 header-img: img/home-bg.jpg
-email: lol@yourdomain.com
+email: 
 description: "At the beggining of 2015, I had the slightly absurd idea I wanted to convert an electric car. Thanks to my amazing Aunt who so kindly donated here beautiful 1984 Mazda RX-7 GLS, this idea has become a reality."
 baseurl: ""
 url: "http://ev.mkindustries.net"
-twitter_username: SBootstrap
+twitter_username: 
 github_username:  mattkelsey
-facebook_username:  IronSummitMedia
+facebook_username:  
 
 # Build settings
 markdown: kramdown
