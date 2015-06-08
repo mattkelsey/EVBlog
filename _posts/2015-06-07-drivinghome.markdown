@@ -6,6 +6,7 @@ date:       2015-06-07 12:02:50
 author:     "Matt"
 header-img: "img/post2bg.jpg"
 ---
+
 <p>One of the most nerve-racking parts of this whole process was seeing whether or not the car ran. That came a couple weeks back. Blame finals for the ridiculous tardiness of this post.</p>
 <p>To be honest, I was a little skeptical as to whether or not we would be able to get it to start. It had been sitting for two years, not to mention the fact that it was fully exposed to the elements for that entire time. After scoping it out the week before, everything looked great but obviously looks can be deceiving.</p>
 
