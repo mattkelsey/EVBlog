@@ -131,7 +131,7 @@ hr.small {
   background: no-repeat center center;
   background-color: #808080;
   background-attachment: scroll;
-  background-position: top;
+  background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
