@@ -7,7 +7,7 @@ author:     "Matt"
 header-img: "img/post1bg.jpg"
 ---
 
-<p>Today we got our very first look at the car in question, the gorgeous 1984 Mazda RX-7 GSL, probably one of the best looking classic cars out there. With my limited knowledge of classic cars, I think that in its category it is only rivaled by the Porsche 911. </p>
+<p>Today we got our very first look at the car in question, the gorgeous 1984 Mazda RX-7 GSL, probably one of the best looking classic cars out there. With my limited knowledge of classic cars, I think that in its category it is only rivaled by the Porsche 911.</p>
 
 <p>Anyways, this was one of the most anticipated parts of the entire build for me. It allowed my vision of the completed car to take shape a little bit further. For this visit we just did some rudimentary work on the car (checking the oil, tire pressure, etc.) to get it ready for driving it home on a following weekend.</p>
 

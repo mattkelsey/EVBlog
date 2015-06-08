@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "Homeward"
 subtitle:   "The wonderous (and terrifying) adventure of driving home."
@@ -42,4 +42,3 @@ header-img: "img/post2bg.jpg"
 <span class="caption text-muted">Car all cleaned up and looking way better. It’s amazing what just a good wash can do!</span>
 
 <p>More to come soon, thanks for reading.</p>
-
