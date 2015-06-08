@@ -2,7 +2,7 @@
 layout:     post
 title:      "Homeward"
 subtitle:   "The wonderous (and terrifying) adventure of driving home."
-date:       2015-06-07 20:04:12
+date:       2015-06-07 12:02:50
 author:     "Matt"
 header-img: "img/post2bg.jpg"
 ---
