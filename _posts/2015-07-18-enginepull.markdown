@@ -4,7 +4,7 @@ title:      "Engine Pull"
 subtitle:   "We finally get the engine out!"
 date:       2015-07-18 4:47:36
 author:     "Matt"
-header-img: "IMAGE"
+header-img: "{{ site.baseurl }}/img/post3-2.JPG"
 ---
 
 <p>The week after we got the car home, we began classifying and removing all of the components in the engine. This was, of course, much easier said than done. It took us until Tuesday of this week, about five weeks later to finally get it out.</p>
