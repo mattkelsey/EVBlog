@@ -19,7 +19,7 @@ header-img: "IMAGE"
 
 <p>However, after some exploring we found that this was not the case. Most of the bolts were relatively easy to reach. And with the new found glory of a wondrous tool called a breaker bar, we were able to remove the bolts with relative ease.</p>
 
-<img src="{{ site.baseurl }}/img/post3-1.jpg" alt="Checking out the engine">
+<img src="{{ site.baseurl }}/img/post3-1.JPG" alt="Checking out the engine">
 <span class="caption text-muted">Using the wondrous breaker bar to loosen a transmission bolt! Keen observers might note the forgone ratchet lying in front of me.</span>
 
 <p>After many hours of hard work and problem solving we finally had the engine lift attached, the transmission propped up, and the engine mounting bolts of. So slowly, we began lifting. A shortened (and timelapsed) video of the removal process can be found below. The full version might show up in its own post down the road depending on whether I have time to edit it.</p>
@@ -29,7 +29,7 @@ header-img: "IMAGE"
 
 <p>All things considered, it went pretty smoothly. It took us about four times longer than we had originally planned but it wouldn't be an engineering project if we were on schedule.</p>
 
-<img src="{{ site.baseurl }}/img/post3-2.jpg" alt="Checking out the engine">
+<img src="{{ site.baseurl }}/img/post3-2.JPG" alt="Checking out the engine">
 <span class="caption text-muted">It's out!</span>
 
 <p>After admiring the inside of the transmission bell housing and looking around the engine, we decided to continue with the process. As it turned out this was yet another adventure (no surprises there, seems as if everything is more difficult than one would expect). In order to adapt the new electric motor (which is now on order and should arrive in a few weeks!) we will need the clutch plate, pressure plate, flywheel, and the throwout bearing. The clutch and pressure plates came out relatively easily, the flywheel however was a different story.</p>
