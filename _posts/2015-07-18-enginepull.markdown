@@ -22,7 +22,7 @@ header-img: "img/post3-2.JPG"
 <img src="{{ site.baseurl }}/img/post3-1.JPG" alt="Checking out the engine">
 <span class="caption text-muted">Using the wondrous breaker bar to loosen a transmission bolt! Keen observers might note the forgone ratchet lying in front of me.</span>
 
-<p>After many hours of hard work and problem solving we finally had the engine lift attached, the transmission propped up, and the engine mounting bolts of. So slowly, we began lifting. A shortened (and timelapsed) video of the removal process can be found below. The full version might show up in its own post down the road depending on whether I have time to edit it.</p>
+<p>After many hours of hard work and problem solving we finally had the engine lift attached, the transmission propped up, and the engine mounting bolts off. So slowly, we began lifting. A shortened (and timelapsed) video of the removal process can be found below. The full version might show up in its own post down the road depending on whether I have time to edit it.</p>
 
 <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FZ96vlpdzzU"></iframe></div>
 <span class="caption text-muted">Removing the engine... (We wish it went this quickly!)</span>
