@@ -43,6 +43,8 @@ header-img: "img/post4/post4-9.JPG"
 <img src="{{ site.baseurl }}/img/post4/post4-3.JPG" alt="Installing the new windshield wiper assembly">
 <span class="caption text-muted">Installing the repaired assembly back into the car.</span>
 
+<br />
+
 <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uXwTnXxPN2k"></iframe></div>
 <span class="caption text-muted">Wipers are working!</span>
 
@@ -51,6 +53,7 @@ header-img: "img/post4/post4-9.JPG"
 <img src="{{ site.baseurl }}/img/post4/post4-4.JPG" alt="Removing old weathershielding">
 <span class="caption text-muted">The old weatherstripping literally crumbled as I was taking it out.</span>
 
+<br />
 
 <img src="{{ site.baseurl }}/img/post4/post4-5.JPG" alt="New vs. Old weather stripping">
 <span class="caption text-muted">A piece of old weather stripping on the left compared to the shiny new one on the right!</span>
@@ -60,8 +63,12 @@ header-img: "img/post4/post4-9.JPG"
 <img src="{{ site.baseurl }}/img/post4/post4-6.JPG" alt="Sanding of some rust">
 <span class="caption text-muted">Sanding of some rust that had accumulated on the hood hinges.</span>
 
+<br />
+
 <img src="{{ site.baseurl }}/img/post4/post4-7.JPG" alt="Cleaning engine bay">
 <span class="caption text-muted">Wiping down the front of the engine bay.</span>
+
+<br />
 
 <img src="{{ site.baseurl }}/img/post4/post4-8.JPG" alt="Cleaning transmission bell housing">
 <span class="caption text-muted">Battling the unstoppable forces of filth, grime, and oil residue that had made their home in the transmission bell housing.</span>
@@ -86,11 +93,17 @@ reassembly and thorough testing :P -->
 <img src="{{ site.baseurl }}/img/post4/post4-9.JPG" alt="First shipment in front of the car">
 <span class="caption text-muted">The shipment and its abundance of parts rest in front of their future home.</span>
 
+<br />
+
 <img src="{{ site.baseurl }}/img/post4/post4-10.JPG" alt="Controller">
 <span class="caption text-muted">The motor controller awaiting chill plate installation.</span>
 
+<br />
+
 <img src="{{ site.baseurl }}/img/post4/post4-11.JPG" alt="Chill plate finished">
 <span class="caption text-muted">The billet aluminum chill plate sanded and cleaned to perfection.</span>
+
+<br />
 
 <p>Basically, I just sanded down the imperfections on the controller and the chill plate and took off any smaller stuff with solvent and a paper towel. This left an oily coating which I cleaned of with isopropyl alcohol. Then I went about applying the black silicone around the edges of the controller. </p>
 
