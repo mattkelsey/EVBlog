@@ -18,12 +18,12 @@ header-img: "img/post4/post4-9.JPG"
 <span class="caption text-muted">The gas tank came out with only a little bit cajoling. This is a quick edit of the process.</span>
 
 <h3>Flywheel Liberation</h3>
-<p>Removing the flywheel was not difficult at all. It was really just an excuse to get to play with large power tools. As I mentioned in the last post, the engine uses a massive 54mm nut to connect to the flywheel. Needless to say, our ratchet set would not suffice. So it was of to Harbor Freight Tools (we seem to be visiting here a lot lately) to buy the biggest electric impact wrench they had. It would fit up to a 46mm bolt. So then it was of to the internet to order an adapter to fit larger socket types. Then it was of to Lowes to buy a massive 52mm impact socket!
+<p>Removing the flywheel was not difficult at all. It was really just an excuse to get to play with large power tools. As I mentioned in the last post, the engine uses a massive 54mm nut to connect to the flywheel. Needless to say, our ratchet set would not suffice. So it was of to Harbor Freight Tools (we seem to be visiting here a lot lately) to buy the biggest electric impact wrench they had. It would fit up to a 46mm bolt. So then it was of to the internet to order an adapter to fit larger socket types. Then it was of to Lowes to buy a massive 52mm impact socket!</p>
 
 <img src="{{ site.baseurl }}/img/post4/post4-1.JPG" alt="Holding the giant 52mm impact socket.">
 <span class="caption text-muted">Me holding the combination of socket and driver that can only be described as "epic".</span>
 
-Once home, it was a simple matter of firing the thing up and letting it works its magic on the bolt for a few seconds. We had to give the flywheel a couple taps with a mallet to get it off, but we have been informed (by the internet) that this is normal.
+<p> Once home, it was a simple matter of firing the thing up and letting it works its magic on the bolt for a few seconds. We had to give the flywheel a couple taps with a mallet to get it off, but we have been informed (by the internet) that this is normal. </p>
 
 <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XSrSCi0wsIM"></iframe></div>
 <span class="caption text-muted">Flywheels are heavier than they look. Don't put your hand under one.</span>
