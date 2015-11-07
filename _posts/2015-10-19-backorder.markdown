@@ -78,7 +78,7 @@ reassembly and thorough testing :P -->
 <h3>Parts, Parts, and More Parts!</h3>
 <p>Somewhere in this process the parts started to come in. They came in two orders, the first much sooner than the second. Unsurprisingly, they came in big trucks on big pallets, and both delivery people asked something along the lines of, "Is thing the right place?" I don't think our house is the kind of place they are accustomed to delivering too.</p>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GH86YxuwRNQ"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fIztcYSA8sU"></iframe></div>
 <span class="caption text-muted">The components have finally arrived!</span>
 
 <p>Anyhow, the first shipment came in with just the motor, controller, chill plate, and controller mount. There wasn't a whole lot we could do with the motor without some other parts but it was fun to look at. As for the controller and chill plate, those I could work with! The chill plate needed to be mounted to the controller with black silicone and then bolted in place. Seemed easy enough, and it was (for the most part).</p>
