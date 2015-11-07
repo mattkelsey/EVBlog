@@ -89,9 +89,6 @@ reassembly and thorough testing :P -->
 <img src="{{ site.baseurl }}/img/post4/post4-10.JPG" alt="Controller">
 <span class="caption text-muted">The motor controller awaiting chill plate installation.</span>
 
-<img src="{{ site.baseurl }}/img/post4/post4-10.JPG" alt="Preparing motor controller">
-<span class="caption text-muted">Cleaning the motor controller in preparation for the chill plate installation.</span>
-
 <img src="{{ site.baseurl }}/img/post4/post4-11.JPG" alt="Chill plate finished">
 <span class="caption text-muted">The billet aluminum chill plate sanded and cleaned to perfection.</span>
 
