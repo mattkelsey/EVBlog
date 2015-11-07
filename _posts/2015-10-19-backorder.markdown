@@ -4,7 +4,7 @@ title:      "Shiny New Parts"
 subtitle:   "New parts have started to arrive!"
 date:       2015-11-06 20:56:28
 author:     "Matt"
-header-img: "img/post4-9.JPG"
+header-img: "img/post4/post4-9.JPG"
 ---
 
 <p>Well, its been a while. I haven't posted for a long time, but in that time a lot has been accomplished (get comfortable this is going to be a long post). First and foremost, we ordered the parts (cue confetti)! Due to the rather large and heavy nature of the items we were shipping we had to order the shipments in two loads. Unfortunately, because some of the parts are made-on-demand there were some unexpected delays with the second shipment. Of course, we should have probably come to the conclusion that this would be the case sooner as many of the parts we are ordering aren't exactly something you can find on Amazon (and thats saying something). Anyhow, the good news was we were notified as soon as we received the first shipment that the second one would be delayed. So in the mean time we were able to get some work done. Here is what was accomplished (more or less in this order):</p>
