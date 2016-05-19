@@ -2,7 +2,7 @@
 layout:     post
 title:      "Motor Install"
 subtitle:   "Pure, clean efficiency. No more fluids."
-date:       2015-07-18 4:47:36
+date:       2016-05-18 20:50:12
 author:     "Matt"
 header-img: "img/post5/header.jpg"
 ---
