@@ -1,3 +1,5 @@
+gems: [jekyll-paginate]
+
 # Site settings
 title: Matt's EV Blog
 header-img: img/home-bg.jpg
@@ -9,9 +11,9 @@ twitter_username:
 github_username:  mattkelsey
 facebook_username:  
 
+paginate: 5
 # Build settings
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
