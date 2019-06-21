@@ -2,7 +2,7 @@
 layout:     post
 title:      "An Untimely Update"
 subtitle:   "3 Years later."
-date:       2019-06-21 14:12:02
+date:       2019-06-20 14:12:02
 author:     "Matt"
 published:  true
 header-img: "img/interior/2.jpg"
